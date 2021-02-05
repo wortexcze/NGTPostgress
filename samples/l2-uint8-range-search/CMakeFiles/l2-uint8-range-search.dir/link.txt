@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp  -rdynamic CMakeFiles/l2-uint8-range-search.dir/l2-uint8-range-search.cpp.o  -o l2-uint8-range-search  -L/home/jakub/NGT-master/build/lib/NGT  -L/home/jakub/NGT-master/lib/NGT ../../lib/NGT/libngt.so.1.12.2 -lpthread -lgomp -lrt 

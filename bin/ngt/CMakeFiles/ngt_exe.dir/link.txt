@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp  -rdynamic CMakeFiles/ngt_exe.dir/ngt.cpp.o  -o ngt  -L/home/jakub/NGT-master/build/lib/NGT  -L/home/jakub/NGT-master/lib/NGT ../../lib/NGT/libngt.so.1.12.2 -lgomp -lrt -lpthread 
